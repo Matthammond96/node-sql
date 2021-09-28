@@ -51,7 +51,7 @@ npm start
 Alternativily if you do not have typescript installed, you can run the following command.
 
 ```
-npm start-node
+node dist/app.js
 ```
 
 # Restful API Routes
