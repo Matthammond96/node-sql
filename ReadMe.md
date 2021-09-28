@@ -2,7 +2,7 @@
 
 The database is a MySQL database that contains two tables; artists and songs. You can either copy the `dump.sql` file into your own database, please note that if you do this, you will need to also update the config wthin `/src/MySQL/connection.ts`.
 
-Alternatavly you can use `docker compose up` to automatically create and configure the database on port 3306.
+Alternatavly you can use `docker compose up` to automatically create and configure the database locally on port 3306.
 
 <br />
 
