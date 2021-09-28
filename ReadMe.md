@@ -84,3 +84,4 @@ curl --request PUT \
 - Security, currently there is no attempt to fix an vunarbililty of the api, such as sql injection.
 - Better database structure, including 1 - many structure
 - On the update function check if new artist is found.
+- Hide the database config using env varibiles
