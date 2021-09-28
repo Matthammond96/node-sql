@@ -9,7 +9,6 @@ exports.createConnection = async (req, res, next) => {
   });
 
   connection.connect();
-
   req.connection = connection;
   next()
 }
